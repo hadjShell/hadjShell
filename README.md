@@ -7,7 +7,7 @@ I'm David @Hadjshell, an enthusiastic human being for life.
 * 👀  Interested in **full stack development**, **operating system**, **algorithms**
 * 🌱  Currently working on my final dissertation
 * 📝  Favourite quotes: 
-  > *Mind and Hind*
+  > *Mind and Hand*
   
   > *Life swings like a pendulum backward and forward between pain and boredom.*
 * 😍  Reading, travelling, gym, basketball, music
