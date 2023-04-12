@@ -56,7 +56,7 @@
     <a href= "https://www.linkedin.com/in/jiayuan-zhang-00390a201/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"/ width="28"></a>
     </p>
     <p align="center">
-    <a href="https://buymeacoffe.com/davidzhang0" target="_blank" rel="noreferrer"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="45" alt="buymeacoffee" /></a>
+    <a href="https://buymeacoffee.com/davidzhang0" target="_blank" rel="noreferrer"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="45" alt="buymeacoffee" /></a>
     </p>
 </p>
 
