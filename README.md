@@ -1,20 +1,20 @@
-# Hello there👋
-I'm David @Hadjshell, an enthusiastic human being for life.
+<h1 align="center">Hello there👋</h1>
 
-💝🧡💛💚💙💜🤎🖤🤍
+<h4 align="center">I'm David @Hadjshell, an enthusiastic human being for life.</h4>
+<p align="center">💝🧡💛💚💙💜🤎🖤🤍</p>
 
-* 🎓  BSc Computer Science in Newcastle University, GPA: 4.0
-* 👀  Interested in **full stack development**, **operating system**, **algorithms**
-* 🌱  Currently working on my final dissertation
-* 📝  Favourite quotes: 
-  > *Mind and Hand*
-  
-  > *Life swings like a pendulum backward and forward between pain and boredom.*
-* 😍  Reading, travelling, gym, basketball, music
+<div align="center" >
+<p>🎓  BSc Computer Science in Newcastle University, GPA: 4.0</p>
+<p>👀  Interested in <strong>full stack development</strong>, <strong>operating system</strong>, <strong>algorithms</strong></p>
+<p>🌱  Currently working on my final dissertation</p>
+<p>📝  Favourite quotes:<br>
+<i>"Mind and Hand" & "Life swings like a pendulum backward and forward between pain and boredom."</i>
+</p>
+<p>😍  Reading, travelling, gym, basketball, music</p>
+</div>
 
-### ⛏ Skills
-
-<p align="left">
+<h2 align="center">⛏ Skills</h2>
+<p align="center">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" /></a>
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
@@ -30,6 +30,7 @@ I'm David @Hadjshell, an enthusiastic human being for life.
     <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" /></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" /></a>
+    <a href="https://gohugo.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" width="40" height="40" alt="Hugo" /></a>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode" /></a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ" /></a>
@@ -37,9 +38,8 @@ I'm David @Hadjshell, an enthusiastic human being for life.
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="jupyter_notebook" /></a>
 </p>
 
-### 📈 Github Stats
-
-<div align="left">
+<h2 align="center">📈 Github Stats</h2>
+<div align="center">
     <span>&emsp;&emsp;</span>
     <img height="175px" src="https://github-readme-stats.vercel.app/api?username=hadjShell&count_private=true&show_icons=true" />
     <span>&emsp;&emsp;</span>
@@ -54,7 +54,10 @@ I'm David @Hadjshell, an enthusiastic human being for life.
     <p align="center">
     <a href= "https://hadjshell.github.io/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
     <a href= "https://www.linkedin.com/in/jiayuan-zhang-00390a201/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"/ width="28"></a>
-    </p>     
+    </p>
+    <p align="center">
+    <a href="https://buymeacoffe.com/davidzhang0" target="_blank" rel="noreferrer"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="45" alt="buymeacoffee" /></a>
+    </p>
 </p>
 
 <!---
