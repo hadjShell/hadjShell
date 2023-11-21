@@ -5,12 +5,12 @@
 
 <div align="center" >
 <p>🎓  BSc Computer Science in Newcastle University, GPA: 4.0</p>
-<p>👀  Interested in <strong>full stack development</strong>, <strong>operating system</strong>, <strong>algorithms</strong></p>
+<p>👀  Interested in <strong>Full Stack Development</strong>, <strong>Operating System</strong>, <strong>Algorithms</strong>, <strong>Software Architecture</strong></p>
 <p>🌱  Currently working on my final dissertation</p>
 <p>📝  Favourite quotes:<br>
 <i>"Mind and Hand" & "Life swings like a pendulum backward and forward between pain and boredom."</i>
 </p>
-<p>😍  Reading, travelling, gym, basketball, music</p>
+<p>😍  Reading, Travelling, Weightlifting, Basketball, Music</p>
 </div>
 
 <h2 align="center">⛏ Skills</h2>
@@ -30,6 +30,7 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" /></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" /></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind" /></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" /></a>
     <a href="https://gohugo.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" width="40" height="40" alt="Hugo" /></a>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
