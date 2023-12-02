@@ -55,8 +55,8 @@
 <p align="center">
   <i>Welcome to my github page and let's get in touch!</i>
     <p align="center">
-    <a href= "https://hadjshell.github.io/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-    <a href= "https://www.linkedin.com/in/jiayuan-zhang-00390a201/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"/ width="28"></a>
+    <a href= "mailto://davidzhang0880@gmail.com"><img src="https://raw.githubusercontent.com/twbs/icons/main/icons/envelope.svg" width="28" height="28" />
+    <a href= "https://www.linkedin.com/in/jiayuan-zhang-00390a201/"><img src="https://raw.githubusercontent.com/twbs/icons/main/icons/linkedin.svg" width="28" height="28" />
     </p>
     <p align="center">
     <a href="https://buymeacoffee.com/davidzhang0" target="_blank" rel="noreferrer"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="45" alt="buymeacoffee" /></a>
