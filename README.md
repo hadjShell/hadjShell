@@ -46,7 +46,7 @@
     <span>&emsp;&emsp;</span>
     <img height="175px" src="https://github-readme-stats.vercel.app/api?username=hadjShell&count_private=true&show_icons=true&theme=blueberry" />
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadjShell&layout=compact&langs_count=8&theme=blueberry&card_width=400&size_weight=0.5&count_weight=0.5" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadjShell&layout=compact&langs_count=8&theme=blueberry&size_weight=0.5&count_weight=0.5" />
     <span>&emsp;&emsp;</span>
 </div>
 
