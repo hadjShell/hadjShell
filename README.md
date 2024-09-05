@@ -1,16 +1,16 @@
 <h1 align="center">Hello there👋</h1>
 
-<h3 align="center">I'm David @Hadjshell, an enthusiastic human being for life.</h3>
-<p align="center">💝🧡💛💚💙💜🤎🖤🤍</p>
+<h3 align="left">I'm David @Hadjshell, an enthusiastic human being for life.</h3>
 
-<div align="center" >
-<p>🎓  BSc Computer Science in Newcastle University, GPA: 4.0</p>
+
+<div align="left">
+<p>🎓  MSc Advanced Computing at King's College London, GPA: TBD</p>
+<p>🎓  BSc Computer Science at Newcastle University, GPA: 4.0</p>
 <p>👀  Interested in <strong>Full Stack Development</strong>, <strong>Operating System</strong>, <strong>Algorithms</strong>, <strong>Software Architecture</strong></p>
-<p>🌱  Currently working on my final dissertation</p>
-<p>📝  Favourite quotes:<br>
-<i>"Mind and Hand" & "Life swings like a pendulum backward and forward between pain and boredom."</i>
+<p>🌱  Currently seeking for a graduate job of software engineer in UK 2025</p>
+<p>📝  Favourite quotes: <i>"Mind and Hand" & "Life swings like a pendulum backward and forward between pain and boredom."</i>
 </p>
-<p>😍  Reading, Travelling, Weightlifting, Basketball, Music</p>
+<p>😍  Coding, Reading, Travel, Gym, Basketball, Cycling</p>
 </div>
 
 <h2 align="center">⛏ Skills</h2>
