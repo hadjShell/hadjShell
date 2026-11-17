@@ -4,7 +4,7 @@
 
 ### Part engineer. Part explorer. Always curious.
 
-*Mind and hand.*
+*Hand and Mind.*
 
 </div>
 
