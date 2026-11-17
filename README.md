@@ -58,8 +58,8 @@ I enjoy learning new things, meeting people with different perspectives, and fin
 ### `~ $ git stats --summary`
 
 <div align="center">
-  <img height="165" alt="David's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=hadjShell&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" alt="Most used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadjShell&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+  <img height="165" alt="David's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=Hadjshell&hide_title=true&show_icons=true&include_all_commits=true&theme=vue-dark" />
+  <img height="165" alt="Most used languages across public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hadjShell&layout=compact&langs_count=8&theme=vue-dark" />
 </div>
 
 ### `~ $ echo "let's connect"`
